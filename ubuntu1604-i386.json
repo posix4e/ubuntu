@@ -3,7 +3,7 @@
   "vm_name": "ubuntu1604-i386",
   "cpus": "1",
   "disk_size": "65536",
-  "iso_checksum": "f6f464ddda1d1a021c56c79fda0418d0e603d416",
+  "iso_checksum": "84f485aeea1aea81dded63ee78639d07edfd96e7",
   "iso_checksum_type": "sha1",
   "iso_name": "ubuntu-16.04.3-server-i386.iso",
   "iso_url": "http://releases.ubuntu.com/16.04/ubuntu-16.04.3-server-i386.iso",
